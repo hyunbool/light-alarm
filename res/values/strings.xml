@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">빛알람</string>
+    <string-array name="planets_array">
+        <item>월</item>
+        <item>화</item>
+    </string-array>
+</resources>

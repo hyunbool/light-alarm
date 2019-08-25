@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- 세팅 버튼 -->
+    <item
+        android:id="@+id/setting_btn"
+        android:icon="@drawable/on"
+        android:title="알람추가"
+        app:showAsAction="always"/>
+
+</menu>
